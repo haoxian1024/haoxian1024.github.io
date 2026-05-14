@@ -9,8 +9,8 @@ I'm currently pursuing a Master's degree in Probability and Mathematical Statist
 **Beijing Normal University**, Master in Probability and Mathematical Statistics (2024–2027)  
 
 **Renmin University of China**  
-• Bachelor of Mathematics and Applied Mathematics (Major, 2020–2024)
-• Bachelor of Economic Statistics (Minor, 2020–2024)
+• Bachelor of Mathematics and Applied Mathematics (Major, 2020–2024)  
+• Bachelor of Economic Statistics (Minor, 2020–2024)  
 
 #### Research Interests  
-Optimal Transport (OT), Electronic Design Automation (EDA) for chip design, Data Science and Statistical Models, etc.
+Optimal Transport (OT), Electronic Design Automation (EDA) for chip design, Data Science and Statistical Models, etc.  
