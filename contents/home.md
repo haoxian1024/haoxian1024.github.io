@@ -1,4 +1,4 @@
-[![haoxian1024](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/haoxian1024)
+[![haoxian1024](https://img.shields.io/badge/haoxian-github-blue?logo=github)](https://github.com/haoxian1024)
 
 I'm currently pursuing a Master's degree in Probability and Mathematical Statistics at the Department of Mathematical Sciences, Beijing Normal University.
 
