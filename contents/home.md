@@ -1,20 +1,16 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree in Probability and Mathematical Statistics at the Department of Mathematical Sciences, Beijing Normal University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>202421130125@mail.bnu.edu.cn</code>  
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing Normal University**, Master in Probability and Mathematical Statistics (2024–2027)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Renmin University of China**  
+• Bachelor of Mathematics and Applied Mathematics (Major, 2020–2024)
+• Bachelor of Economic Statistics (Minor, 2020–2024)
 
 #### Research Interests  
-XX, XX, XX, XX.
+Optimal Transport (OT), Electronic Design Automation (EDA) for chip design, Data Science and Statistical Models, etc.
