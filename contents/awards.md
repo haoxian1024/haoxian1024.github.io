@@ -1,3 +1,3 @@
-- 校级一等奖学金, 2022.  
+- 京东一等奖学金, 2021.  
 
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- 华为技术有限公司“难题揭榜”第114期火花奖-EDA专题“大规模芯片版图Pattern特征提取与聚类算法研究”, 2025.
